@@ -42,7 +42,8 @@
     }
   ],
   "tokens": [
-    {"addr":"0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E","name":"TUSD","decimals":18},
+    {"addr":"0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E","name":"old TUSD","decimals":18},
+    {"addr":"0x0000000000085d4780B73119b644AE5ecd22b376","name":"TUSD","decimals":18},
     {"addr":"0xdac17f958d2ee523a2206206994597c13d831ec7","name":"USDT","decimals":6},
     {"addr":"0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA","name":"ERC20","decimals":18},
     {"addr":"0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a","name":"PAX","decimals":18},
