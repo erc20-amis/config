@@ -43,14 +43,15 @@
   ],
   "tokens": [
     {"addr":"0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E","name":"TUSD","decimals":18},
+    {"addr":"0xdac17f958d2ee523a2206206994597c13d831ec7","name":"USDT","decimals":6},
     {"addr":"0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA","name":"ERC20","decimals":18},
     {"addr":"0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a","name":"PAX","decimals":18},
     {"addr":"0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a","name":"PPT","decimals":18},
-    {"addr":"0x936f78b9852d12f5cb93177c1f84fb8513d06263","name":"USDC","decimals":18},
+    {"addr":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48","name":"USDC","decimals":6},
     {"addr":"0x949bEd886c739f1A3273629b3320db0C5024c719","name":"AMIS","decimals":9}
   ],
   "defaultPair": {
     "token": "AMIS",
-    "base": "TUSD"
+    "base": "ETH"
   }
 }
